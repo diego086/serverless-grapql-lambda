@@ -32,28 +32,16 @@ This example uses the following technologies:
 
 - Backend
   - [Serverless](https://serverless.com/framework/docs/)
-  - [AWS AppSync](https://aws.amazon.com/appsync/) DynamoDB, Elasticsearch and Lambda Integrations
   - [AWS Lambda](https://aws.amazon.com/lambda/) & [AWS API Gateway](https://aws.amazon.com/documentation/apigateway/)
   - [Apollo Lambda GraphQL Server](https://www.npmjs.com/package/apollo-server-lambda)
-  - [DynamoDB](https://aws.amazon.com/dynamodb/)
+
   - [RDS (MySQL, PostGres and Aurora)](https://aws.amazon.com/rds/)
   - [REST API](https://developer.twitter.com/en/docs)
   - Plugins
       - [Serverless Appsync Plugin](https://github.com/sid88in/serverless-appsync-plugin)
       - [Serverless Webpack](https://github.com/serverless-heaven/serverless-webpack)
       - [Serverless Offline](https://github.com/dherault/serverless-offline)
-      - [Serverless DynamoDB Local](https://github.com/99xt/serverless-dynamodb-local)
-      - [Serverless DynamoDB Client](https://www.npmjs.com/package/serverless-dynamodb-client)
-      - [Serverless Finch](https://www.npmjs.com/package/serverless-finch)
 
-- Other Utilities and Integrations
-    - [Faker](https://www.npmjs.com/package/faker)
-    - [Prettier](https://github.com/prettier/prettier)
-    - [Apollo Tracing](https://github.com/apollographql/apollo-tracing)
-
-## System Architecture
-
-![serverless application architecture v2](https://user-images.githubusercontent.com/1587005/36063546-21c3a540-0e33-11e8-9fa4-1a1e5e9a6537.png)
 
 ## Quick Setup
 
